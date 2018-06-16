@@ -1,8 +1,7 @@
 # quick_notes
->> Installation of DevOps tools
+~ Installation of DevOps tools
 
 * git
 * docker
-  ** docker file
-   
+* docker file
 * npm (java package manager)
